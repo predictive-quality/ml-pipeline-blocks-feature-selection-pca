@@ -1,0 +1,5 @@
+--input_path=./example/tmp/
+--output_path=./example/tmp/
+--stage=inverse
+--filename_x=x_test.fth
+--pca_object=pca_example.pckl

@@ -1,0 +1,6 @@
+--input_path=./example
+--output_path=./example/tmp/
+--stage=fit
+--total_variance=0.98
+--filename_x=x_train.fth
+--pca_object=pca_example.pckl
